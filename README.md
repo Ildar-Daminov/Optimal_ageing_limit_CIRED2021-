@@ -3,8 +3,7 @@
 
 # Optimal ageing limit of oil-immersed transformers in flexible power systems
 
-<img align="left" alt="Coding" width="110" src="https://www.cired2021.org/media/1719/cired-2021_logo-red-black-002.jpg">
-
+<img align="left" alt="Coding" width="110" src="http://www.cired.net/files/large/261">
   
 This repository shares the MATLAB code and data for the conference paper 📋:\
 Ildar Daminov, Anton Prokhorov, Raphael Caire, Marie-Cécile Alvarez-Herault, [“Optimal ageing limit of oil-immersed transformers in flexible power systems”](https://hal.archives-ouvertes.fr/G2ELAB/hal-03355187v1), in CIRED conference, Geneva, Switzerland (held online), 2021,DOI: 10.1049/icp.2021.1586
