@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/342845114.svg)](https://zenodo.org/doi/10.5281/zenodo.12510084)
+[![DOI:10.1049/icp.2021.1586](http://img.shields.io/badge/DOI-10.1049/icp.2021.1586-B31B1B.svg)](https://doi.org/10.1049/icp.2021.1586)
+
 # Optimal ageing limit of oil-immersed transformers in flexible power systems
 
 <img align="left" alt="Coding" width="110" src="https://www.cired2021.org/media/1719/cired-2021_logo-red-black-002.jpg">
